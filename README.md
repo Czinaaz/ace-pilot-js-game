@@ -44,7 +44,7 @@ Commit your changes and push them to your fork.
 Open a pull request for review.
 
  # 📝 Acknowledgments
-Inspired by my last game project: Game Goose built in Python. It has the same mechanics and gameplay. Built-in JavaScript so you can play it from the repository or link.
+Inspired by my last game project: Game Goose https://https://github.com/Czinaaz/pygame.git built in Python. It has the same mechanics and gameplay. Built-in JavaScript so you can play it from the repository or link.
 Huge shoutout to OpenAI for their support in developing this project.
 
 # Enjoy flying the Ace Pilot ✈️ Rocket Run! 
